@@ -2,7 +2,7 @@
   <br />
 
   <div>
-    <img src="[https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020](https://socialify.git.ci/Shreykc1/Job-o/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)" alt="expo" />
+    ![Job-o](https://socialify.git.ci/Shreykc1/Job-o/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
   </div>
 
   <div>
