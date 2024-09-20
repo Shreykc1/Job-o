@@ -2,7 +2,7 @@
   <br />
 
   <div>
-    ![Job-o](https://socialify.git.ci/Shreykc1/Job-o/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+    <img src="https://socialify.git.ci/Shreykc1/Job-o/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Job-o" width="640" height="320" />
   </div>
 
   <div>
