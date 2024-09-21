@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Shreykc1/Job-o
-cd project_react_native_jobs
+cd Job-0
 ```
 
 **Installation**
