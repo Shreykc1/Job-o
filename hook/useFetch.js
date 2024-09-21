@@ -10,7 +10,7 @@ const useFetch = (endpoint,query) =>{
     //TODO: PUT API KEY IN DOTENV
     const options = {
         method: 'GET',
-        url: 'https://jsearch.p.rapidapi.com/search',
+        url: `https://jsearch.p.rapidapi.com/${endpoint}`,
         params: {
           ...query
         },
