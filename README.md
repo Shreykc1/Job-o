@@ -91,6 +91,12 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm start
 ```
 
+OR
+
+```bash
+npx expo start
+```
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project
 
 
